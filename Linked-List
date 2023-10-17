@@ -72,10 +72,6 @@ class linked_list
 
 
 };
-main()
-{
-
-}
 
 
 
